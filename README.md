@@ -1,6 +1,8 @@
 # real-mysql-study
 
-[Real MySQL] 교재 스터디
+> [Real MySQL] 교재 스터디
+
+- [github](https://github.com/wikibook/realmysql80)
 
 ## 목차
 
