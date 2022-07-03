@@ -13,3 +13,4 @@
 5. [트랜잭션과 잠금](./chapter5/README.md)
 6. [데이터 압축](./chapter6/README.md)
 7. [데이터 암호화](./chapter7/README.md)
+8. [인덱스](./chapter8/README.md)
